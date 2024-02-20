@@ -1,0 +1,2800 @@
+repo_name: ibrahimbdr/angular
+report_id: 5b177ced136a9c7fc117ac644641ee04
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-20T12:44:49+00:00'
+requested_by: josephperrott
+provider: github
+branch: main
+detected_tools_count: 200
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ibrahimbdr/angular
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ibrahimbdr/angular
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Tobias Bosch
+  last_updated_on: 2014-09-18 21:56:38.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/Dockerfile
+  detection_source: aio/aio-builds-setup/dockerbuild/Dockerfile
+  last_updated_by: Georgios Kalpakas
+  last_updated_on: 2017-02-06 18:40:28.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/ng_update_migrations/package.json
+  detection_source: integration/ng_update_migrations/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2019-08-27 15:37:10.000000000 Z
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: D3.js
+  description: A JavaScript visualization library for HTML and SVG
+  website_url: http://d3js.org/
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Tobias Bosch
+  last_updated_on: 2014-09-18 21:56:38.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-09-07 18:01:04.000000000 Z
+- name: Materialize
+  description: A modern responsive front-end framework based on Material Design
+  website_url: http://dogfalo.github.io/materialize/index.html
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/2015/GN559Lfb.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-10-10 15:04:23.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  version: 16.13.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/.nvmrc
+  detection_source: Repo Metadata
+  last_updated_by: Alan Agius
+  last_updated_on: 2022-10-11 12:39:05.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.7
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Igor Minar
+  last_updated_on: 2017-01-25 11:04:30.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: aio/tools/examples/shared/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-08-05 17:09:37.000000000 Z
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/package.json
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-07-11 20:03:45.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.19.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: integration/dynamic-compiler/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-09-27 10:18:09.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/cli-hello-world-mocha/yarn.lock
+  detection_source: integration/cli-hello-world-mocha/package.json
+  last_updated_by: JiaLiPassion
+  last_updated_on: 2022-02-11 04:34:49.000000000 Z
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/.circleci/config.yml
+  detection_source: ".circleci/config.yml"
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-03-23 19:40:28.000000000 Z
+- name: Closure Compiler
+  description: A JavaScript checker and optimizer
+  website_url: https://developers.google.com/closure/compiler/?hl=en
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Optimizers
+  image_url: https://img.stackshare.io/service/3794/wBjKn0ol.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/hello_world__closure/package.json
+  detection_source: integration/hello_world__closure/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-09-27 15:23:06.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ibrahimbdr/angular
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/package.json
+  detection_source: aio/package.json
+  last_updated_by: Igor Minar
+  last_updated_on: 2017-01-25 11:04:30.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ibrahimbdr/angular
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/.github/workflows/assistant-to-the-branch-manager.yml
+  detection_source: ".github/workflows/assistant-to-the-branch-manager.yml"
+  last_updated_by: Joey Perrott
+  last_updated_on: 2022-10-28 18:45:49.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 4.2.1
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-07-09 19:37:39.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/packages/zone.js/yarn.lock
+  detection_source: packages/zone.js/package.json
+  last_updated_by: JiaLiPassion
+  last_updated_on: 2019-05-31 15:56:07.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 6.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-08-05 17:09:37.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 9.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/cli-hello-world-mocha/yarn.lock
+  detection_source: integration/cli-hello-world-mocha/package.json
+  last_updated_by: JiaLiPassion
+  last_updated_on: 2022-02-11 04:34:49.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/content/examples/i18n/doc-files/nginx.conf
+  detection_source: aio/content/examples/i18n/doc-files/nginx.conf
+  last_updated_by: Pete Bacon Darwin
+  last_updated_on: 2021-08-30 15:42:20.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/ng_update_migrations/package.json
+  detection_source: integration/ng_update_migrations/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2019-08-27 15:37:10.000000000 Z
+- name: Octokit
+  description: GitHub API Client Library for .NET
+  website_url: https://github.com/octokit/octokit.net
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Tools for GitHub
+  image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-07-08 18:03:52.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-12-13 17:48:47.000000000 Z
+- name: Protractor
+  description: End-to-end test framework for Angular and AngularJS applications
+  website_url: http://angular.github.io/protractor
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-10-25 09:06:02.000000000 Z
+- name: Puppeteer
+  description: Headless Chrome Node API
+  website_url: https://github.com/GoogleChrome/puppeteer
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7553/puppeteer.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/package.json
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2021-10-19 13:19:02.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  version: 2.3.6
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Greg Magolan
+  last_updated_on: 2019-11-22 21:12:05.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Tobias Bosch
+  last_updated_on: 2014-09-18 21:56:38.000000000 Z
+- name: SuperTest
+  description: A library for testing node.js HTTP servers
+  website_url: https://www.npmjs.com/package/supertest
+  version: 6.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-06-29 18:09:12.000000000 Z
+- name: TSLint
+  description: An extensible linter for the TypeScript language
+  website_url: https://github.com/palantir/tslint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5561/303157.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Georgios Kalpakas
+  last_updated_on: 2017-02-06 18:40:28.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.74.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: integration/platform-server/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-09-21 17:28:02.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/.yarnrc
+  detection_source: ".yarnrc"
+  last_updated_by: Joey Perrott
+  last_updated_on: 2020-01-22 17:11:34.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Joey Perrott
+  last_updated_on: 2021-02-11 20:09:30.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 20.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-06-29 03:21:32.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 2.0.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-09-07 18:01:04.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Georgios Kalpakas
+  last_updated_on: 2017-02-06 18:40:28.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/boilerplate/systemjs/package.json
+  detection_source: aio/tools/examples/shared/boilerplate/systemjs/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-10 16:44:25.000000000 Z
+- name: Domino
+  description: A PaaS for data science - easily run R, Python or Matlab code in the
+    cloud with automatic version control for data, code, and results
+  website_url: http://www.dominoup.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/1133/c295ea015debc091e92ed099f111413b.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: Lighthouse
+  description: Beautifully Simple Issue Tracking
+  website_url: http://lighthouseapp.com
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Issue Tracking
+  image_url: https://img.stackshare.io/service/183/lighthouse_fluid_icon.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/package.json
+  detection_source: aio/package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2021-11-16 09:30:55.000000000 Z
+- name: Bluebird
+  description: A full featured promise library with unmatched performance
+  website_url: https://github.com/petkaantonov/bluebird/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/11991/bb.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: GChuf
+  last_updated_on: 2021-02-05 18:13:21.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/Dockerfile
+  detection_source: aio/aio-builds-setup/dockerbuild/Dockerfile
+  last_updated_by: Georgios Kalpakas
+  last_updated_on: 2017-02-06 18:40:28.000000000 Z
+- name: Debian
+  description: The Universal Operating System
+  website_url: https://www.debian.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/1656/vd4gAekh.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/Dockerfile
+  detection_source: aio/aio-builds-setup/dockerbuild/Dockerfile
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-03-18 19:47:16.000000000 Z
+- name: Firefox
+  description: Mozilla's Web Browser
+  website_url: https://www.mozilla.org/en-US/firefox/
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Web Browser
+  image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-06-22 16:13:15.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ibrahimbdr/angular
+  detection_source: Repo Metadata
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/package.json
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-06-29 18:07:22.000000000 Z
+- name: typed-graphqlify
+  description: Build definitely typed GraphQL Query in TypeScript
+  website_url: https://github.com/acro5piano/typed-graphqlify
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10094/10719495.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: "@angular-devkit/core"
+  description: Angular DevKit - Core Utility Library
+  package_url: https://www.npmjs.com/@angular-devkit/core
+  version: 14.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16682/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-26 13:46:35.000000000 Z
+- name: "@angular-devkit/schematics"
+  description: Angular Schematics - Library
+  package_url: https://www.npmjs.com/@angular-devkit/schematics
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16789/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-26 13:46:35.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: "@angular/cdk"
+  description: Angular Material Component Development Kit
+  package_url: https://www.npmjs.com/@angular/cdk
+  version: 14.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16358/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-10-25 09:06:02.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-10-25 09:06:02.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-10-25 09:06:02.000000000 Z
+- name: "@angular/elements"
+  description: Angular - library for using Angular Components as Custom Elements
+  package_url: https://www.npmjs.com/@angular/elements
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18671/default_7e5294813726a85799fe9193da6ec4c30fc0d4a0.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-10-25 09:06:02.000000000 Z
+- name: "@angular/language-service"
+  description: Angular - language services
+  package_url: https://www.npmjs.com/@angular/language-service
+  version: 14.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/animations/yarn.lock
+  detection_source: integration/animations/package.json
+  last_updated_by: Jessica Janiuk
+  last_updated_on: 2022-01-25 21:31:15.000000000 Z
+- name: "@angular/material"
+  description: Angular Material
+  package_url: https://www.npmjs.com/@angular/material
+  version: 14.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16444/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-10-25 09:06:02.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-10-25 09:06:02.000000000 Z
+- name: "@angular/platform-server"
+  description: Angular - library for using Angular in Node.js
+  package_url: https://www.npmjs.com/@angular/platform-server
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16296/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/universal/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2022-10-31 10:55:29.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: "@angular/upgrade"
+  description: Angular - the library for easing update from v1 to v2
+  package_url: https://www.npmjs.com/@angular/upgrade
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17266/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/systemjs/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2022-10-31 10:55:29.000000000 Z
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.19.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-25 20:04:33.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.19.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: integration/dynamic-compiler/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-09-27 10:18:09.000000000 Z
+- name: "@babel/generator"
+  description: Turns an AST into code
+  package_url: https://www.npmjs.com/@babel/generator
+  version: 7.19.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17361/default_e9c4b89784d4fe5d59f93b4a54dd8910ea23e5de.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@babel/parser"
+  description: A JavaScript parser
+  package_url: https://www.npmjs.com/@babel/parser
+  version: 7.18.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16932/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-25 20:04:33.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.19.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-25 20:04:33.000000000 Z
+- name: "@babel/template"
+  description: Generate an AST from a string template
+  package_url: https://www.npmjs.com/@babel/template
+  version: 7.18.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18110/image.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-25 20:04:33.000000000 Z
+- name: "@babel/traverse"
+  description: The Babel Traverse module maintains the overall tree state
+  package_url: https://www.npmjs.com/@babel/traverse
+  version: 7.18.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17114/default_5b9eca95ab3651165eb280ed5e0bc9a9382ad24d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-25 20:04:33.000000000 Z
+  vulnerabilities:
+  - name: Babel vulnerable to arbitrary code execution when compiling specifically
+      crafted malicious code
+    cve_id: CVE-2023-45133
+    cve_url: https://github.com/advisories/GHSA-67hx-6x53-jw92
+    detected_date: Oct 17
+    severity: critical
+    first_patched: 7.23.2
+- name: "@babel/types"
+  description: Babel Types is a Lodash-esque utility library for AST nodes
+  package_url: https://www.npmjs.com/@babel/types
+  version: 7.18.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16786/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-25 20:04:33.000000000 Z
+- name: "@rollup/plugin-node-resolve"
+  description: Locate and bundle third-party dependencies in node_modules
+  package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
+  version: 13.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/systemjs/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-10 16:44:25.000000000 Z
+- name: "@schematics/angular"
+  description: Schematics specific to Angular
+  package_url: https://www.npmjs.com/@schematics/angular
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17661/default_eb9caf7d7fb4d231f7e3b04a8c1fbef6fcd9fd73.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-26 13:46:35.000000000 Z
+- name: "@types/angular"
+  description: TypeScript definitions for Angular JS
+  package_url: https://www.npmjs.com/@types/angular
+  version: 1.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17435/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/cli-ajs/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2022-10-31 10:55:29.000000000 Z
+- name: "@types/babel__core"
+  description: TypeScript definitions for @babel/core
+  package_url: https://www.npmjs.com/@types/babel__core
+  version: 7.1.19
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18415/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/packages/zone.js/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: "@types/bluebird"
+  description: TypeScript definitions for bluebird
+  package_url: https://www.npmjs.com/@types/bluebird
+  version: 3.5.36
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16458/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@types/body-parser"
+  description: TypeScript definitions for body-parser
+  package_url: https://www.npmjs.com/@types/body-parser
+  version: 1.19.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16808/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@types/events"
+  description: TypeScript definitions for events
+  package_url: https://www.npmjs.com/@types/events
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18164/default_0bb0f4fd59640311a8af225b57652f46ca85cd80.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@types/express"
+  description: TypeScript definitions for Express
+  package_url: https://www.npmjs.com/@types/express
+  version: 4.17.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16100/default_d947c1690e032a288145c7e2491999eab3ea8ede.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@types/hammerjs"
+  description: TypeScript definitions for Hammer.js
+  package_url: https://www.npmjs.com/@types/hammerjs
+  version: 2.0.41
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17205/default_f32012d99e98300650172d76a20c554617f1031d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@types/jasmine"
+  description: TypeScript definitions for Jasmine
+  package_url: https://www.npmjs.com/@types/jasmine
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@types/jasminewd2"
+  description: TypeScript definitions for jasminewd2
+  package_url: https://www.npmjs.com/@types/jasminewd2
+  version: 2.0.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/animations/yarn.lock
+  detection_source: integration/animations/package.json
+  last_updated_by: Kristiyan Kostadinov
+  last_updated_on: 2022-08-26 08:39:05.000000000 Z
+- name: "@types/jquery"
+  description: TypeScript definitions for jQuery
+  package_url: https://www.npmjs.com/@types/jquery
+  version: 3.5.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16363/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@types/minimist"
+  description: TypeScript definitions for minimist
+  package_url: https://www.npmjs.com/@types/minimist
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16976/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@types/nock"
+  description: Stub TypeScript definitions entry for nock
+  package_url: https://www.npmjs.com/@types/nock
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16993/default_7a9e63a9526bf5da91e7a6f9f792b13e3543a875.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@types/node-fetch"
+  description: TypeScript definitions for node-fetch
+  package_url: https://www.npmjs.com/@types/node-fetch
+  version: 2.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16459/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@types/selenium-webdriver"
+  description: TypeScript definitions for Selenium WebDriverJS
+  package_url: https://www.npmjs.com/@types/selenium-webdriver
+  version: 3.0.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17263/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@types/semver"
+  description: TypeScript definitions for semver
+  package_url: https://www.npmjs.com/@types/semver
+  version: 7.3.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16694/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@types/shelljs"
+  description: TypeScript definitions for ShellJS
+  package_url: https://www.npmjs.com/@types/shelljs
+  version: 0.8.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16927/default_243de814aae175a383b2d9fba99487a89879acdb.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@types/supertest"
+  description: TypeScript definitions for SuperTest
+  package_url: https://www.npmjs.com/@types/supertest
+  version: 2.0.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16805/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@types/uuid"
+  description: TypeScript definitions for uuid
+  package_url: https://www.npmjs.com/@types/uuid
+  version: 8.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@types/yargs"
+  description: TypeScript definitions for yargs
+  package_url: https://www.npmjs.com/@types/yargs
+  version: 17.0.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16404/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/packages/zone.js/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.33.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.33.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-06 19:23:33.000000000 Z
+- name: "@webcomponents/custom-elements"
+  description: HTML Custom Elements Polyfill
+  package_url: https://www.npmjs.com/@webcomponents/custom-elements
+  version: 1.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18023/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-07 17:45:41.000000000 Z
+- name: angular-in-memory-web-api
+  description: An in-memory web api for Angular demos and tests
+  package_url: https://www.npmjs.com/angular-in-memory-web-api
+  version: 0.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17249/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/cli-ajs/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2022-10-31 10:55:29.000000000 Z
+- name: angular-route
+  description: AngularJS router module
+  package_url: https://www.npmjs.com/angular-route
+  version: 1.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18069/image.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/cli-ajs/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2022-10-31 10:55:29.000000000 Z
+- name: archiver
+  description: A streaming interface for archive generation
+  package_url: https://www.npmjs.com/archiver
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16407/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: assert
+  description: The assert module from Node.js, for the browser
+  package_url: https://www.npmjs.com/assert
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16188/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-22 11:16:46.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: integration/platform-server/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-09-21 17:28:02.000000000 Z
+- name: base64-js
+  description: Base64 encoding/decoding in pure JS
+  package_url: https://www.npmjs.com/base64-js
+  version: 1.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17396/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-07-11 20:03:45.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.20.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-05-02 13:14:05.000000000 Z
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.27.10
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-06-22 16:13:15.000000000 Z
+- name: canonical-path
+  description: Paths that always use forward slashes
+  package_url: https://www.npmjs.com/canonical-path
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18339/default_d5b77997c52e60064f8f7efaaf6a6e4c314ba8e4.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2019-10-16 20:15:40.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: chokidar
+  description: A neat wrapper around node.js fs.watch / fs.watchFile / fsevents
+  package_url: https://www.npmjs.com/chokidar
+  version: 3.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16043/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: package.json
+  last_updated_by: GChuf
+  last_updated_on: 2021-02-05 18:13:21.000000000 Z
+- name: codelyzer
+  description: Linting for Angular applications
+  package_url: https://www.npmjs.com/codelyzer
+  version: 6.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-09-27 12:20:48.000000000 Z
+- name: concurrently
+  description: Run commands concurrently
+  package_url: https://www.npmjs.com/concurrently
+  version: 7.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/systemjs/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-07-04 13:15:54.000000000 Z
+- name: conventional-changelog
+  description: Generate a changelog from git metadata
+  package_url: https://www.npmjs.com/conventional-changelog
+  version: 3.1.25
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16618/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2021-11-03 21:17:22.000000000 Z
+- name: convert-source-map
+  description: Converts a source-map from/to different formats and allows adding/changing
+    properties
+  package_url: https://www.npmjs.com/convert-source-map
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17172/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-07-19 08:10:45.000000000 Z
+- name: copyfiles
+  description: Copy some files
+  package_url: https://www.npmjs.com/copyfiles
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16453/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/content/examples/schematics-for-libraries/projects/my-lib/package.json
+  last_updated_by: Dustin M. Eastway
+  last_updated_on: 2021-10-22 23:16:24.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/systemjs/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2022-10-31 10:55:29.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-13 19:39:34.000000000 Z
+- name: cross-spawn
+  description: Cross platform child_process#spawn and child_process#spawnSync
+  package_url: https://www.npmjs.com/cross-spawn
+  version: 6.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16069/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  version: 7.6.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tobias Bosch
+  last_updated_on: 2014-09-18 21:56:38.000000000 Z
+- name: diff
+  description: A javascript text diff implementation
+  package_url: https://www.npmjs.com/diff
+  version: 4.0.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: integration/ng_update_migrations/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2019-11-23 21:52:34.000000000 Z
+- name: document-register-element
+  description: A stand-alone working lightweight version of the W3C Custom Elements
+    specification
+  package_url: https://www.npmjs.com/document-register-element
+  version: 1.14.10
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18288/default_58902f7546bad08cb3e029d857d71b8ffa2d438c.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: AleksanderBodurri
+  last_updated_on: 2021-12-16 07:00:43.000000000 Z
+- name: entities
+  description: Encode &amp; decode XML/HTML entities with ease
+  package_url: https://www.npmjs.com/entities
+  version: 2.2.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18082/image.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2022-04-02 06:18:01.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-08-09 05:11:17.000000000 Z
+- name: eslint-plugin-jasmine
+  description: ESLint rules for Jasmine
+  package_url: https://www.npmjs.com/eslint-plugin-jasmine
+  version: 4.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17163/default_eb6674f470fe213f950fd09d858ebb0f6b6e3dda.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-20 05:04:01.000000000 Z
+- name: eslint-plugin-jsdoc
+  description: JSDoc linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-jsdoc
+  version: 39.3.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16672/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-08-09 05:11:17.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-09-07 18:01:04.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-10-25 09:06:02.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.2.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: integration/ng_update_migrations/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2019-11-23 21:52:34.000000000 Z
+- name: globby
+  description: User-friendly glob matching
+  package_url: https://www.npmjs.com/globby
+  version: 13.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16159/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2022-01-24 09:46:45.000000000 Z
+- name: google-closure-compiler
+  description: Check
+  package_url: https://www.npmjs.com/google-closure-compiler
+  version: 20211006.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17740/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/hello_world__closure/yarn.lock
+  detection_source: integration/hello_world__closure/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-09-27 15:23:06.000000000 Z
+- name: graceful-fs
+  description: A drop-in replacement for fs, making various improvements
+  package_url: https://www.npmjs.com/graceful-fs
+  version: 4.2.10
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16375/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2022-04-09 20:42:17.000000000 Z
+- name: gulp-conventional-changelog
+  description: Generate a changelog using conventional-changelog
+  package_url: https://www.npmjs.com/gulp-conventional-changelog
+  version: 2.0.35
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17783/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Joey Perrott
+  last_updated_on: 2022-09-14 16:06:59.000000000 Z
+- name: hammerjs
+  description: A javascript library for multi-touch gestures
+  package_url: https://www.npmjs.com/hammerjs
+  version: 2.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16521/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-06-22 20:41:12.000000000 Z
+- name: http-server
+  description: A simple zero-configuration command-line http server
+  package_url: https://www.npmjs.com/http-server
+  version: 14.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16118/default_f905d9556a0330de59b502a579c1f5c4be2b48bf.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/systemjs/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-06-29 00:55:35.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-06-29 18:07:22.000000000 Z
+- name: ignore
+  description: Ignore is a manager and filter for .gitignore rules
+  package_url: https://www.npmjs.com/ignore
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17744/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: image-size
+  description: Get dimensions of any image file
+  package_url: https://www.npmjs.com/image-size
+  version: 0.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16919/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2021-04-15 07:22:10.000000000 Z
+- name: jasmine-core
+  description: Official packaging of Jasmine's core files for use by Node.js projects
+  package_url: https://www.npmjs.com/jasmine-core
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-23 00:48:40.000000000 Z
+- name: jasmine-spec-reporter
+  description: Spec reporter for jasmine behavior-driven development framework
+  package_url: https://www.npmjs.com/jasmine-spec-reporter
+  version: 7.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-20 05:04:01.000000000 Z
+- name: jest-environment-jsdom
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-environment-jsdom
+  version: 29.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/packages/zone.js/yarn.lock
+  detection_source: packages/zone.js/package.json
+  last_updated_by: JiaLiPassion
+  last_updated_on: 2022-09-20 04:47:35.000000000 Z
+- name: json5
+  description: JSON for humans
+  package_url: https://www.npmjs.com/json5
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16645/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-10-12 10:12:15.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in JSON5 via Parse Method
+    cve_id: CVE-2022-46175
+    cve_url: https://github.com/advisories/GHSA-9c47-m6qq-7p4h
+    detected_date: Dec 29
+    severity: high
+    first_patched: 2.2.2
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 3.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-08-05 17:09:37.000000000 Z
+- name: karma-coverage
+  description: A Karma plugin. Generate code coverage
+  package_url: https://www.npmjs.com/karma-coverage
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-08-05 17:09:37.000000000 Z
+- name: karma-coverage-istanbul-reporter
+  description: A karma reporter that uses the latest istanbul 1.x APIs
+  package_url: https://www.npmjs.com/karma-coverage-istanbul-reporter
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/animations/yarn.lock
+  detection_source: integration/animations/package.json
+  last_updated_by: Andrew Kushnir
+  last_updated_on: 2022-05-30 00:56:30.000000000 Z
+- name: karma-firefox-launcher
+  description: A Karma plugin. Launcher for Firefox
+  package_url: https://www.npmjs.com/karma-firefox-launcher
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16026/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-08-05 17:09:37.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 5.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-20 05:04:01.000000000 Z
+- name: karma-jasmine-html-reporter
+  description: A Karma plugin
+  package_url: https://www.npmjs.com/karma-jasmine-html-reporter
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-09-20 05:04:01.000000000 Z
+- name: karma-mocha
+  description: A Karma plugin. Adapter for Mocha testing framework
+  package_url: https://www.npmjs.com/karma-mocha
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15962/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/cli-hello-world-mocha/yarn.lock
+  detection_source: integration/cli-hello-world-mocha/package.json
+  last_updated_by: JiaLiPassion
+  last_updated_on: 2022-02-11 04:34:49.000000000 Z
+- name: karma-mocha-reporter
+  description: Karma reporter with mocha style logging
+  package_url: https://www.npmjs.com/karma-mocha-reporter
+  version: 2.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16127/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/cli-hello-world-mocha/yarn.lock
+  detection_source: integration/cli-hello-world-mocha/package.json
+  last_updated_by: JiaLiPassion
+  last_updated_on: 2022-02-11 04:34:49.000000000 Z
+- name: karma-requirejs
+  description: A Karma plugin. Adapter for RequireJS framework
+  package_url: https://www.npmjs.com/karma-requirejs
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16817/default_31a4e0e11d348225088320f3a5c5ea6fa49c27ad.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-08-05 17:09:37.000000000 Z
+- name: karma-sauce-launcher
+  description: A Karma plugin. Launch any browser on SauceLabs!
+  package_url: https://www.npmjs.com/karma-sauce-launcher
+  version: 4.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16460/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Joey Perrott
+  last_updated_on: 2022-09-14 16:06:59.000000000 Z
+- name: karma-sourcemap-loader
+  description: Karma plugin that locates and loads existing javascript source map
+    files
+  package_url: https://www.npmjs.com/karma-sourcemap-loader
+  version: 0.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16011/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Joey Perrott
+  last_updated_on: 2022-09-14 16:06:59.000000000 Z
+- name: lite-server
+  description: Lightweight development node server for serving a web app
+  package_url: https://www.npmjs.com/lite-server
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16577/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/systemjs/package.json
+  last_updated_by: renovate[bot]
+  last_updated_on: 2022-06-29 00:55:35.000000000 Z
+  vulnerabilities:
+  - name: lite-server vulnerable to Denial of Service
+    cve_id: CVE-2022-25940
+    cve_url: https://github.com/advisories/GHSA-89w7-5q45-r53w
+    detected_date: Dec 21
+    severity: high
+    first_patched: 
+- name: lunr
+  description: Simple full-text search in your browser
+  package_url: https://www.npmjs.com/lunr
+  version: 2.3.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18488/default_0f684fdba52879fd48ceb8876e4283627899355a.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: madge
+  description: Create graphs from module dependencies
+  package_url: https://www.npmjs.com/madge
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18251/default_d7af0607656aecc036ca87d563e99619deb7cf84.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2021-06-24 15:49:49.000000000 Z
+- name: magic-string
+  description: Modify strings, generate sourcemaps
+  package_url: https://www.npmjs.com/magic-string
+  version: 0.26.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17689/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-09 22:02:43.000000000 Z
+- name: materialize-css
+  description: Builds Materialize distribution packages
+  package_url: https://www.npmjs.com/materialize-css
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18643/default_307f5e470653b390ca19fe4af233f51d7f1b3ed4.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-10-10 15:04:23.000000000 Z
+  vulnerabilities:
+  - name: Materialize-css vulnerable to Cross-site Scripting in autocomplete component
+    cve_id: CVE-2019-11003
+    cve_url: https://github.com/advisories/GHSA-7752-f4gf-94gc
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 
+  - name: materialize-css vulnerable to cross-site Scripting (XSS) due to improper
+      escape of user input
+    cve_id: CVE-2022-25349
+    cve_url: https://github.com/advisories/GHSA-7jvx-f994-rfw2
+    detected_date: May 4
+    severity: moderate
+    first_patched: 
+  - name: Materialize-css vulnerable to Improper Neutralization of Input During Web
+      Page Generation
+    cve_id: CVE-2019-11004
+    cve_url: https://github.com/advisories/GHSA-rg3q-jxmp-pvjj
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 
+  - name: Materialize-css vulnerable to Cross-site Scripting in tooltip component
+    cve_id: CVE-2019-11002
+    cve_url: https://github.com/advisories/GHSA-98f7-p5rc-jx67
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 
+- name: minimist
+  description: Parse argument options
+  package_url: https://www.npmjs.com/minimist
+  version: 1.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15918/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: package.json
+  last_updated_by: JoostK
+  last_updated_on: 2022-02-01 21:12:44.000000000 Z
+- name: mock-require
+  description: Simple, intuitive mocking of Node.js modules
+  package_url: https://www.npmjs.com/mock-require
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16983/default_7a9e63a9526bf5da91e7a6f9f792b13e3543a875.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/packages/zone.js/yarn.lock
+  detection_source: packages/zone.js/package.json
+  last_updated_by: JiaLiPassion
+  last_updated_on: 2019-07-18 16:42:23.000000000 Z
+- name: multimatch
+  description: Extends `minimatch.match
+  package_url: https://www.npmjs.com/multimatch
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17402/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: JoostK
+  last_updated_on: 2022-02-01 21:12:44.000000000 Z
+- name: nock
+  description: HTTP server mocking and expectations library for Node.js
+  package_url: https://www.npmjs.com/nock
+  version: 13.2.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16036/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-09-07 18:01:04.000000000 Z
+- name: node-fetch
+  description: A light-weight module that brings window.fetch to node.js
+  package_url: https://www.npmjs.com/node-fetch
+  version: 2.6.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15978/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-09-07 18:01:04.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-05-02 13:14:13.000000000 Z
+- name: promises-aplus-tests
+  description: Compliance test suite for Promises/A+
+  package_url: https://www.npmjs.com/promises-aplus-tests
+  version: 2.1.2
+  license: WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18159/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/packages/zone.js/yarn.lock
+  detection_source: packages/zone.js/package.json
+  last_updated_by: JiaLiPassion
+  last_updated_on: 2020-10-04 03:31:14.000000000 Z
+- name: raw-loader
+  description: A loader for webpack that allows importing files as a String
+  package_url: https://www.npmjs.com/raw-loader
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16030/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/platform-server/yarn.lock
+  detection_source: integration/platform-server/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-09-21 17:28:02.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Alex Eagle
+  last_updated_on: 2018-10-22 21:26:52.000000000 Z
+- name: remark
+  description: Markdown processor powered by plugins
+  package_url: https://www.npmjs.com/remark
+  version: 12.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16952/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2021-04-28 13:23:42.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: rollup-plugin-sourcemaps
+  description: Rollup plugin for grabbing source maps from sourceMappingURLs
+  package_url: https://www.npmjs.com/rollup-plugin-sourcemaps
+  version: 0.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16230/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-25 20:04:33.000000000 Z
+- name: rollup-plugin-terser
+  description: Rollup plugin to minify generated es bundle
+  package_url: https://www.npmjs.com/rollup-plugin-terser
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16078/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/systemjs/package.json
+  last_updated_by: Angular Robot
+  last_updated_on: 2022-10-10 16:44:25.000000000 Z
+- name: selenium-webdriver
+  description: The official WebDriver JavaScript bindings from the Selenium project
+  package_url: https://www.npmjs.com/selenium-webdriver
+  version: 3.6.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16708/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: JoostK
+  last_updated_on: 2022-02-01 21:12:44.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: send
+  description: Better streaming static file server with Range and conditional-GET
+    support
+  package_url: https://www.npmjs.com/send
+  version: 0.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17093/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2022-03-24 09:29:37.000000000 Z
+- name: serve
+  description: Static file serving and directory listing
+  package_url: https://www.npmjs.com/serve
+  version: 11.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/cli-hello-world-ivy-i18n/yarn.lock
+  detection_source: integration/cli-hello-world-ivy-i18n/package.json
+  last_updated_by: Pete Bacon Darwin
+  last_updated_on: 2019-12-03 08:36:38.000000000 Z
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.8.5
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Joey Perrott
+  last_updated_on: 2022-01-12 18:39:24.000000000 Z
+- name: source-map
+  description: Generates and consumes source maps
+  package_url: https://www.npmjs.com/source-map
+  version: 0.6.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16339/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-07-19 08:10:45.000000000 Z
+- name: source-map-explorer
+  description: Analyze and debug space usage through source maps
+  package_url: https://www.npmjs.com/source-map-explorer
+  version: 2.5.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17561/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-07-13 14:28:55.000000000 Z
+- name: source-map-support
+  description: Fixes stack traces for files with source maps
+  package_url: https://www.npmjs.com/source-map-support
+  version: 0.5.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16028/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-05-02 13:14:05.000000000 Z
+- name: systemjs
+  description: Dynamic ES module loader
+  package_url: https://www.npmjs.com/systemjs
+  version: 0.19.47
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16299/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/tools/examples/shared/boilerplate/systemjs/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2021-11-05 17:49:51.000000000 Z
+- name: tar-stream
+  description: Tar-stream is a streaming tar parser and generator and nothing else
+  package_url: https://www.npmjs.com/tar-stream
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18168/default_77d2e8738857baa38b19bd635d4e8653809e03e4.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2020-09-07 18:01:04.000000000 Z
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 5.15.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: integration/terser/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-09-20 20:12:21.000000000 Z
+- name: tmp
+  description: Temporary file and directory creator
+  package_url: https://www.npmjs.com/tmp
+  version: 0.0.30
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16251/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tobias Bosch
+  last_updated_on: 2014-09-18 21:56:38.000000000 Z
+- name: tree-kill
+  description: Kill trees of processes
+  package_url: https://www.npmjs.com/tree-kill
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17621/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2019-03-04 19:33:25.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2022-10-25 09:06:02.000000000 Z
+- name: tsickle
+  description: Transpile TypeScript code to JavaScript with Closure annotations
+  package_url: https://www.npmjs.com/tsickle
+  version: 0.38.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16428/default_5ffcf8d02a3454bd25d27d236025c6d078c3b672.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/hello_world__closure/yarn.lock
+  detection_source: integration/hello_world__closure/package.json
+  last_updated_by: Greg Magolan
+  last_updated_on: 2020-02-04 19:45:40.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.14.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/aio-builds-setup/dockerbuild/scripts-js/yarn.lock
+  detection_source: aio/aio-builds-setup/dockerbuild/scripts-js/package.json
+  last_updated_by: Kristiyan Kostadinov
+  last_updated_on: 2021-09-22 18:50:59.000000000 Z
+- name: tslint-eslint-rules
+  description: Improve your TSLint with the missing ESLint Rules
+  package_url: https://www.npmjs.com/tslint-eslint-rules
+  version: 5.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16403/default_3d8bf87f0e09f3da6536330e02ffa89677f8784b.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2022-07-27 08:03:49.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 3.16.2
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: unist-util-visit
+  description: Recursively walk over unist nodes
+  package_url: https://www.npmjs.com/unist-util-visit
+  version: 2.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17139/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: George Kalpakas
+  last_updated_on: 2021-10-29 11:17:13.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 4.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/integration/platform-server/yarn.lock
+  detection_source: integration/platform-server/package.json
+  last_updated_by: Paul Gschwendtner
+  last_updated_on: 2021-09-21 17:28:02.000000000 Z
+- name: xhr2
+  description: XMLHttpRequest emulation for node.js
+  package_url: https://www.npmjs.com/xhr2
+  version: 0.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17654/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: xregexp
+  description: Extended regular expressions
+  package_url: https://www.npmjs.com/xregexp
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17673/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-04-05 09:57:24.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 17.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Renovate Bot
+  last_updated_on: 2021-05-04 06:39:44.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.11.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/ibrahimbdr/angular/blob/main/aio/tools/examples/shared/yarn.lock
+  detection_source: aio/package.json
+  last_updated_by: Alan Agius
+  last_updated_on: 2021-10-12 10:12:15.000000000 Z
